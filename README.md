@@ -53,7 +53,7 @@
 - *Tech Stack:* MongoDB,ExpressJs,NodeJs,React,JWT tokens,Zustand,DaisyUI,Cloudinary.
 - *Repository:* [GitHub Link]() 
 
-### 3. University Management System
+### 4. University Management System
 - *Description:* This project is designed to manage various university operations such as student registration, course management, and faculty administration.
 - *Tech Stack:* Java,Java Database Connectivity,SQL.
 - *Repository:* [GitHub Link](https://github.com/Harshitmaury123/University_Management_System) 
