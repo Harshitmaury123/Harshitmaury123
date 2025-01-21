@@ -51,7 +51,7 @@
 ### 3. Chatty (Real-Time-Chat)
 - *Description:* It provides seamless communication with instant messaging, user authentication, and a responsive user interface.
 - *Tech Stack:* MongoDB,ExpressJs,NodeJs,React,JWT tokens,Zustand,DaisyUI,Cloudinary.
-- *Repository:* [GitHub Link]() (Add the actual link)
+- *Repository:* [GitHub Link]() 
 
 ### 3. University Management System
 - *Description:* This project is designed to manage various university operations such as student registration, course management, and faculty administration.
