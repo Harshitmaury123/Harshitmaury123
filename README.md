@@ -46,7 +46,7 @@
 - *Description:* This project predicts real estate prices based on user-provided input features, such as location, size, and number of rooms. It integrates a machine learning model with an interactive frontend for a seamless user experience.
 - *Tech Stack:* Python, Jupyter Notebook,React,Flask server
 - *Repository:* [GitHub Link](https://github.com/Harshitmaury123/Real_Estate_Frontend)
-- *Demo:* [Deployment Link](https://real-estate-frontend-iyzzcuwjc.vercel.app/)
+- *Demo:* [Live_Demo](https://real-estate-frontend-iyzzcuwjc.vercel.app/)
 
 ### 3. Chatty (Real-Time-Chat)
 - *Description:* It provides seamless communication with instant messaging, user authentication, and a responsive user interface.
@@ -63,11 +63,11 @@
 
 ## 📊 GitHub Stats
 
-![Harshitmaury123's Stats](https://github-readme-stats.vercel.app/api?username=mjgandhi2305&theme=blue-green&show_icons=true&hide_border=true&count_private=true)
+![Harshitmaury123's Stats](https://github-readme-stats.vercel.app/api?username=Harshitmaury123&theme=blue-green&show_icons=true&hide_border=true&count_private=true)
 
-![Harshitmaury123's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mjgandhi2305&theme=blue-green&hide_border=true)
+![Harshitmaury123's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harshitmaury123&theme=blue-green&hide_border=true)
 
-![Harshitmaury123's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mjgandhi2305&theme=blue-green&show_icons=true&hide_border=true&layout=compact)
+![Harshitmaury123's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitmaury123&theme=blue-green&show_icons=true&hide_border=true&layout=compact)
 
 ## 🤝 Connect with me
 <p align="center">
