@@ -59,8 +59,6 @@
 - *Repository:* [GitHub Link](https://github.com/Harshitmaury123/University_Management_System) 
 
 
-
-
 ## 📊 GitHub Stats
 
 ![Harshitmaury123's Stats](https://github-readme-stats.vercel.app/api?username=Harshitmaury123&theme=blue-green&show_icons=true&hide_border=true&count_private=true)
